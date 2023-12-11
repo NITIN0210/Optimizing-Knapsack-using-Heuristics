@@ -1,1 +1,3 @@
 # Optimizing-Knapsack-using-Heuristics
+
+The Knapsack Problem is a well-known combinatorial optimization problem. It involves determining the number of each weighted item to be included in a hypothetical knapsack, so that the total weight is less than or equal to the required weight while maximizing the total value of the items. Metaheuristic algorithms have been widely used to solve such NP-hard problems, as they offer effective and efficient solutions. This paper compares four metaheuristic algorithms, namely Tabu Search, Scatter Search and Local Search, and Genetic Algorithm for solving the Knapsack Problem. The algorithms are evaluated based on three metrics: execution time, solution quality, and relative difference to the best-known quality solution. 
